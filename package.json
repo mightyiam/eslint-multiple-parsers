@@ -1,6 +1,6 @@
 {
   "name": "eslint-multiple-parsers",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Multiple parsers for ESLint",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
