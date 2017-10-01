@@ -8,7 +8,7 @@
     "lint": "eslint src/index.ts",
     "transpile": "tsc",
     "unit": "ava",
-    "test": "run-s lint transpile unit"
+    "test": "run-s transpile lint unit"
   },
   "repository": {
     "type": "git",
