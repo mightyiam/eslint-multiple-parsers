@@ -44,7 +44,7 @@ Specify this package  as the parser and configure the multiple parsers like so:
 }
 ```
 
-The `test` is a regular expression. It will be matched against the [`basename`](https://nodejs.org/api/path.html#path_path_basename_path_ext) of the file path.
+The `test` is a regular expression. It will be matched against the [`basename`](https://nodejs.org/api/path.html#path_path_basename_path_ext) of the file path. The first matched parser will be used.
 
 Of course, any specified parsers must be installed.
 
