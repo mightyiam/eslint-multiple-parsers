@@ -1,0 +1,12 @@
+{
+  "extends": "eslint-config-standard-with-typescript",
+  "parser": "./lib",
+  "parserOptions": {
+    "parsers": [
+      {
+        "pattern": ".*\\.ts$",
+        "path": "typescript-eslint-parser"
+      }
+    ]
+  }
+}
