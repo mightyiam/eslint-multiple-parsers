@@ -1,6 +1,7 @@
 # eslint-multiple-parsers
 
 [![Build Status](https://travis-ci.org/mightyiam/eslint-multiple-parsers.svg?branch=master)](https://travis-ci.org/mightyiam/eslint-multiple-parsers)
+[![Greenkeeper badge](https://badges.greenkeeper.io/mightyiam/eslint-multiple-parsers.svg)](https://greenkeeper.io/)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 
