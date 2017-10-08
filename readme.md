@@ -4,11 +4,15 @@
 [![Greenkeeper badge](https://badges.greenkeeper.io/mightyiam/eslint-multiple-parsers.svg)](https://greenkeeper.io/)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-
 Use multiple parsers in one ESLint run.
 
-ESLint can currently have configured [only a single parser](https://eslint.org/docs/user-guide/configuring#specifying-parser).
+## **DEPRECATION NOTICE**
 
+**Superseded by [ESLint configuration based on glob patterns](https://eslint.org/docs/user-guide/configuring#configuration-based-on-glob-patterns)**.
+
+## What
+
+ESLint can currently have configured [only a single parser](https://eslint.org/docs/user-guide/configuring#specifying-parser).
 If your code has multiple languages and thus requires multiple parsers, [you’re out of luck](https://github.com/eslint/eslint/issues/8543).
 
 Or, *are you?*
